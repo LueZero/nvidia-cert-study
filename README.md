@@ -1,8 +1,8 @@
-# NVIDIA 認證助理學習資源
+# NVIDIA 認證學習資源
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 開源的 NVIDIA 認證考試學習講義與模擬題庫，涵蓋四張認證。
+> 開源的 NVIDIA 認證考試學習講義與模擬題庫，涵蓋多張認證。
 
 ## 📚 涵蓋認證
 
@@ -54,11 +54,11 @@
 
 ---
 
-# NVIDIA Certification Associate Study Resources
+# NVIDIA Certification Study Resources
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> Open-source study notes and practice question banks for NVIDIA certification exams, covering four certifications.
+> Open-source study notes and practice question banks for NVIDIA certification exams, covering multiple certifications.
 
 ## 📚 Certifications Covered
 
