@@ -27,33 +27,6 @@
 - 🌐 **多語言支援**：繁體中文（zh-TW）與英文（en）雙語結構
 - ✅ **答案均勻**：ABCD 各佔 25%，模擬真實考試分佈
 
-## 📂 檔案結構
-
-```
-├── NCA-ADS-TCU/
-│   ├── zh-TW/
-│   │   ├── 講義.md              # 資料科學講義
-│   │   ├── 題庫.md              # 資料科學模擬題（120 題）
-│   │   ├── 完整講義與模擬題庫.md # 合併版
-│   │   ├── 學習指南.md          # 學習指南
-│   │   └── 考試重點與真題分析.md # 考試重點
-│   └── en/
-│       ├── Notes.md             # Study Notes
-│       ├── Question-Bank.md     # Practice Questions
-│       ├── Full-Notes-and-Question-Bank.md
-│       ├── Study-Guide.md
-│       └── Exam-Key-Points.md
-├── NCA-GENL-TC/
-│   ├── zh-TW/                  # 同上結構
-│   └── en/
-├── NCA-AIIO-TC/
-│   ├── zh-TW/
-│   └── en/
-└── NCA-GENM-TC/
-    ├── zh-TW/
-    └── en/
-```
-
 ## ⚠️ 免責聲明
 
 - 本資源為**非官方**社群學習材料，與 NVIDIA 公司無關
